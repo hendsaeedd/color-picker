@@ -1,1 +1,1 @@
-# pick-color-extension-
+# pick-color-extension
